@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.2.0",
-  "release_date": "2026-01-01",
-  "title": "RF Agent 0.2.0",
-  "description": "首次发布在线更新测试版本。",
-  "download_url": "",
+  "latest_version": "0.1.0",
+  "release_date": "2026-06-03",
+  "title": "RF Agent 0.1.0",
+  "description": "RF Agent 0.1.0 首次在线更新测试版本，用于验证 RF Agent 桌面端在线更新流程。",
+  "download_url": "https://github.com/haopinggg/rf-agent-release/releases/download/v0.1.0/RF-Agent-0.1.0.zip",
   "mandatory": false
 }
